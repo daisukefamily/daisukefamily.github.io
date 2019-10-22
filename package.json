@@ -1,0 +1,19 @@
+{
+  "name": "daisukefamily.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisukefamily/daisukefamily.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daisukefamily/daisukefamily.github.io/issues"
+  },
+  "homepage": "https://github.com/daisukefamily/daisukefamily.github.io#readme"
+}
